@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "378947858418",
+    "project_id": "shopswift-project",
+    "storage_bucket": "shopswift-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378947858418:android:1c085abbbf793c670d056b",
+        "android_client_info": {
+          "package_name": "com.example.adminpanelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTOefNUcJSvj5USVOBzMqou5PfcW1CA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378947858418:android:2effa68f3859dbbf0d056b",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkTOefNUcJSvj5USVOBzMqou5PfcW1CA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
