@@ -56,18 +56,6 @@ Cloudinary (or any image hosting): External hosting for product images
 
 Material Design: For consistent and modern UI components
 
- Project Structure
-
-lib/
- ├── components/        # Buttons, text fields, etc.
- ├── screens/
- │   ├── login/         # Login & Signup screens
- │   ├── profile/       # User profile screen
- │   ├── home/          # Product browsing & categories
- │   ├── product/       # Product details page
- │   ├── admin/         # Admin dashboard (add, edit, delete products)
- ├── main.dart          # Entry point of the app
-
 
 How to Run Locally
 
